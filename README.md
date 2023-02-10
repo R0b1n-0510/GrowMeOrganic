@@ -1,7 +1,7 @@
 # GrowMeOrganic
 React Internship Assignment is to create a new React application that implements the following functionality:
 
-Link : growmeorganic.netlify.app
+Link : https://growmeorganic.netlify.app
 
 Task 1: Application Configuration
 
