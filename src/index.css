@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.error-wrapper {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 100;
+    box-sizing: border-box;
+    background: rgb(0, 0, 0, .3);
+}
+
+.error-wrapper div {
+    padding: 4rem;
+    background: rgb(255, 255, 255);
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, .4);
+    margin-top: 1rem;
+    border-radius:5px;
+}
